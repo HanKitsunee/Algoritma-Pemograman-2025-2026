@@ -10,4 +10,4 @@ public class latihan1 {
         System.out.println("Tinggi: " + tinggi);
         System.out.println("Status aktif: " + aktif);
     }
-}
+} 
